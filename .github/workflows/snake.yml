@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # Atualiza todos os dias à meia-noite
-  workflow_dispatch:
+  workflow_dispatch:  # Permite rodar manualmente
 
 jobs:
   generate:
@@ -12,7 +12,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: CaioHenryxz  # Substitua pelo seu nome de usuário exato do GitHub
+          github_user_name: CaioHenryxz  # Seu usuário exato do GitHub
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: actions/upload-artifact@v3
         with:
