@@ -34,3 +34,4 @@
 
 ### 🐍 Cobrinha dos Commits  
 ![Snake animation](https://github.com/CaioHenryxz/CaioHenryxz/blob/output/github-contribution-grid-snake.svg)
+
