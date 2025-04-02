@@ -13,8 +13,8 @@ jobs:
         id: snake-gif
         with:
           github_user_name: CaioHenryxz  # Substitua pelo seu nome de usuário exato do GitHub
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: github-contribution-grid-snake.svg  # Salva o arquivo na raiz do repositório
       - uses: actions/upload-artifact@v3
         with:
           name: snake-gif
-          path: dist/github-contribution-grid-snake.svg
+          path: github-contribution-grid-snake.svg  # Caminho correto para o arquivo
