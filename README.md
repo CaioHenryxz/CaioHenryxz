@@ -24,10 +24,10 @@
 </div>
 
 ### 🚀 Projetos em Destaque  
-- [🔗 Mov.IA](https://github.com/CaioHenryxz/movia) - Site de recomendação de filmes com IA.  
-- [🔗 Simulador de Títulos de Capitalização](https://github.com/CaioHenryxz/simulador-titulos) - Simulador interativo para análise de títulos de capitalização.  
-- [🔗 API de Balança para Incubadora Neonatal](https://github.com/CaioHenryxz/incubadora-api) - API REST para integração de balanças com incubadoras neonatais.
-
+- [🔗 Mov.IA](https://github.com/CaioHenryxz/Site-Mov.IA) - Site de recomendação de filmes com IA.  
+- [🔗 Simulador de Títulos de Capitalização](https://github.com/CaioHenryxz/Simulador-RendaCap) - Simulador interativo para análise de títulos de capitalização.  
+- [🔗 API de Balança para Incubadora Neonatal](https://github.com/CaioHenryxz/API-Java-Balanca) - API REST para integração de balanças com incubadoras neonatais.
+  
 ### 🌎 Onde me encontrar?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/caiohpdomingues)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiohenry.2606@gmail.com)  
