@@ -25,9 +25,10 @@
 
 ### 🚀 Projetos em Destaque  
 - [🔗 Mov.IA](https://github.com/CaioHenryxz/Site-Mov.IA) - Site de recomendação de filmes com IA.  
-- [🔗 Simulador de Títulos de Capitalização](https://github.com/CaioHenryxz/Simulador-RendaCap) - Simulador interativo para análise de títulos de capitalização.  
-- [🔗 API de Balança para Incubadora Neonatal](https://github.com/CaioHenryxz/API-Java-Balanca) - API REST para integração de balanças com incubadoras neonatais.
-- [🔗 Landing Page - Dr. Wilfredo Finck Jr.](https://github.com/CaioHenryxz/landing-page---medico-) - Landing Page
+- [🔗 Simulador de Títulos de Capitalização](https://github.com/CaioHenryxz/Simulador-de-TC) - Simulador 
+- [🔗 API de integração da Balança com uma Incubadora Neonatal](https://github.com/CaioHenryxz/API-Java-Balanca) - API REST em Java
+- [🔗 Landing Page - Área da saúde.](https://github.com/CaioHenryxz/landing-page---medico-) - Landing Page.
+- [🔗 Software para barbearia.](https://github.com/CaioHenryxz/BarberSys,) - Software Back-end
 
 ### 🌎 Onde me encontrar?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/caiohpdomingues)  
