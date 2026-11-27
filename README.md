@@ -1,48 +1,38 @@
-## Olá! Eu sou o Caio Hênry 👋
+<h1 align="center">Olá, sou o Caio Hênry 👋</h1>
 
-- 👨🏼‍💻 Sou estagiário de Engenharia de Software na Embraer. Desenvolvo aplicações full stack e integro agentes de IA a sistemas internos.
-- 🎓 Curso Ciência e Tecnologia na Unifesp, com foco em Engenharia da Computação.
-- 🛠️ Também desenvolvo aplicações web para clientes. Em iniciação científica, criei uma API para acompanhar pesagens neonatais.
+<p align="center"><strong>Desenvolvimento full stack · Engenharia da Computação · Unifesp</strong></p>
+<p align="center"><a href="https://www.linkedin.com/in/caiohpdomingues">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:caiohenry.2606@gmail.com">E-mail</a></p>
 
-### ✨ Projetos em destaque
+Desenvolvo aplicações web e gosto de acompanhar o projeto inteiro, desde a primeira conversa com quem vai usar o sistema até as decisões sobre a interface, a API e os dados. Como freelancer, construí a loja virtual **3Dream Project** e o site **Black Bloom**.
 
-| Projeto | O que você pode explorar |
+Hoje sou estagiário de Engenharia de Software na **Embraer**, onde desenvolvo sistemas internos, crio e integro agentes de IA e aprofundo minha experiência com AWS e Azure. Na **Unifesp**, curso Ciência e Tecnologia com foco em Engenharia da Computação. Foi na iniciação científica que desenvolvi uma API para acompanhar o histórico de peso de recém-nascidos.
+
+## 🔎 Projetos para explorar
+
+| Projeto | O que você encontra |
 | --- | --- |
-| 🖨️ **3Dream Project** | Loja de impressão 3D. Escolha um filamento, adicione ao carrinho e explore a simulação de estoque. [Abrir demonstração](https://dream-project-store.caiohenry-2606.chatgpt.site/) |
-| 📊 **Plataforma de análise de pedidos** | Desafio full stack que transforma dados de pedidos em indicadores de receita e volume, com Go, Python, PostgreSQL e React. [Ver código](https://github.com/CaioHenryxz/case-solomon) |
-| ⚖️ **API de pesagem neonatal** | Projeto de iniciação científica na Unifesp. A API registra pesagens, acompanha pacientes e mantém um histórico de alterações com Spring Boot e MySQL. [Explorar API](https://github.com/CaioHenryxz/API-Java-Balanca) |
-| 🩺 **LinkTrial** | Protótipo desenvolvido em equipe no MIT Hacking Medicine. A demonstração permite acompanhar um paciente fictício desde a pré-triagem até o encaminhamento para um estudo clínico. [Ver roteiro e código](https://github.com/CaioHenryxz/LinkTrial) |
+| **3Dream Project** · Freelance | Loja de impressão 3D. Na demonstração, dá para navegar pelo catálogo, escolher filamentos e montar um carrinho. [Abrir a loja de demonstração](https://dream-project-store.caiohenry-2606.chatgpt.site/) |
+| **Análise de pedidos** · Teste técnico | Aplicação full stack que transforma pedidos em indicadores de receita e volume. O repositório mostra como Go, Python, PostgreSQL e React se conectam para levar os dados até o painel. [Explorar o código](https://github.com/CaioHenryxz/case-solomon) |
+| **API de pesagem neonatal** · Iniciação científica | API REST em Java e Spring Boot que associa pesagens a pacientes e registra transferências entre balanças. O histórico fica disponível para consulta em MySQL. [Conhecer a API](https://github.com/CaioHenryxz/API-Java-Balanca) |
+| **LinkTrial** · MIT Hacking Medicine | Protótipo que desenvolvemos em equipe para aproximar pacientes oncológicos de estudos clínicos. O roteiro acompanha um paciente fictício da pré-triagem ao encaminhamento. [Ver o protótipo e o roteiro](https://github.com/CaioHenryxz/LinkTrial) |
 
-**Outros projetos:** [BarberSys](https://github.com/CaioHenryxz/BarberSys) · [PoupaBike](https://github.com/CaioHenryxz/PoupaBike) · [Simulador de comissões](https://github.com/CaioHenryxz/simulador-comissoes) · [Mov.IA](https://github.com/CaioHenryxz/Site-Mov.IA)
+**Mais projetos** &nbsp; [PoupaBike](https://github.com/CaioHenryxz/PoupaBike) · [BarberSys](https://github.com/CaioHenryxz/BarberSys) · [Simulador de comissões](https://github.com/CaioHenryxz/simulador-comissoes) · [Mov.IA](https://github.com/CaioHenryxz/Site-Mov.IA)
 
-### 🚀 Tecnologias e Ferramentas  
-<div>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inteligência%20Artificial-FF6F00?style=for-the-badge&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
+## 🛠️ Tecnologias que uso
 
-### 📊 Estatísticas do GitHub  
+![React](https://img.shields.io/badge/React-24283B?style=flat-square&logo=react&logoColor=7DCFFF) ![TypeScript](https://img.shields.io/badge/TypeScript-24283B?style=flat-square&logo=typescript&logoColor=7DCFFF) ![Java](https://img.shields.io/badge/Java-24283B?style=flat-square&logo=openjdk&logoColor=7DCFFF) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-24283B?style=flat-square&logo=springboot&logoColor=7DCFFF) ![Python](https://img.shields.io/badge/Python-24283B?style=flat-square&logo=python&logoColor=7DCFFF) ![MySQL](https://img.shields.io/badge/MySQL-24283B?style=flat-square&logo=mysql&logoColor=7DCFFF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24283B?style=flat-square&logo=postgresql&logoColor=7DCFFF)
+
+Uso Figma para prototipar interfaces, Git para versionar o código e Jira para acompanhar entregas em Kanban. Minha experiência também inclui análise de dados com Power BI e automação de processos com Power Apps e Power Automate.
+
+## 📊 Atividade no GitHub  
 <div>
   <img alt="Estatísticas de contribuições" height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioHenryxz&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img alt="Linguagens dos repositórios" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioHenryxz&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-### 🌎 Onde me encontrar?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiohpdomingues)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiohenry.2606@gmail.com)  
-
 ## 🐍 Cobrinha dos Commits
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioHenryxz/CaioHenryxz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaioHenryxz/CaioHenryxz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CaioHenryxz/CaioHenryxz/output/github-contribution-grid-snake.svg">
+  <img alt="Animação da cobrinha percorrendo meu histórico de contribuições" src="https://raw.githubusercontent.com/CaioHenryxz/CaioHenryxz/output/github-contribution-grid-snake.svg">
 </picture>
