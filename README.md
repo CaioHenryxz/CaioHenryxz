@@ -11,7 +11,7 @@ Hoje sou estagiário de Engenharia de Software na **Embraer**, onde desenvolvo s
 
 | Projeto | O que você encontra |
 | --- | --- |
-| **3Dream Project** · Freelance | Loja de impressão 3D. Na demonstração, dá para navegar pelo catálogo, escolher filamentos e montar um carrinho. [Abrir a loja de demonstração](https://dream-project-store.caiohenry-2606.chatgpt.site/) |
+| **3Dream Project** · Freelance | Loja virtual de impressoras 3D e filamentos, com busca no catálogo, carrinho de compras e painel de estoque. [Repositório privado](https://github.com/CaioHenryxz/3dream-project) |
 | **Análise de pedidos** · Teste técnico | Aplicação full stack que transforma pedidos em indicadores de receita e volume. O repositório mostra como Go, Python, PostgreSQL e React se conectam para levar os dados até o painel. [Explorar o código](https://github.com/CaioHenryxz/case-solomon) |
 | **API de pesagem neonatal** · Iniciação científica | API REST em Java e Spring Boot que associa pesagens a pacientes e registra transferências entre balanças. O histórico fica disponível para consulta em MySQL. [Conhecer a API](https://github.com/CaioHenryxz/API-Java-Balanca) |
 | **LinkTrial** · MIT Hacking Medicine | Protótipo que desenvolvemos em equipe para aproximar pacientes oncológicos de estudos clínicos. O roteiro acompanha um paciente fictício da pré-triagem ao encaminhamento. [Ver o protótipo e o roteiro](https://github.com/CaioHenryxz/LinkTrial) |
