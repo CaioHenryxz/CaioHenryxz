@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou o Caio Hênry 👋</h1>
 
-<p align="center"><strong>Desenvolvimento full stack · Engenharia da Computação · Unifesp</strong></p>
+<p align="center"><strong>Software Engineer · Unifesp</strong></p>
 <p align="center"><a href="https://www.linkedin.com/in/caiohpdomingues">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:caiohenry.2606@gmail.com">E-mail</a></p>
 
 Desenvolvo aplicações web e gosto de acompanhar o projeto inteiro, desde a primeira conversa com quem vai usar o sistema até as decisões sobre a interface, a API e os dados. Como freelancer, construí a loja virtual **3Dream Project** e o site **Black Bloom**.
@@ -11,7 +11,7 @@ Hoje sou estagiário de Engenharia de Software na **Embraer**, onde desenvolvo s
 
 | Projeto | O que você encontra |
 | --- | --- |
-| **3Dream Project** · Freelance | Loja virtual de impressoras 3D e filamentos, com busca no catálogo, carrinho de compras e painel de estoque. [Repositório privado](https://github.com/CaioHenryxz/3dream-project) |
+| **3Dream Project** · Freelance | Loja virtual de impressoras 3D e filamentos, com busca no catálogo, carrinho de compras e painel de estoque. [Repositório](https://github.com/CaioHenryxz/3dream-project) |
 | **Análise de pedidos** · Teste técnico | Aplicação full stack que transforma pedidos em indicadores de receita e volume. O repositório mostra como Go, Python, PostgreSQL e React se conectam para levar os dados até o painel. [Explorar o código](https://github.com/CaioHenryxz/case-solomon) |
 | **API de pesagem neonatal** · Iniciação científica | API REST em Java e Spring Boot que associa pesagens a pacientes e registra transferências entre balanças. O histórico fica disponível para consulta em MySQL. [Conhecer a API](https://github.com/CaioHenryxz/API-Java-Balanca) |
 | **LinkTrial** · MIT Hacking Medicine | Protótipo que desenvolvemos em equipe para aproximar pacientes oncológicos de estudos clínicos. O roteiro acompanha um paciente fictício da pré-triagem ao encaminhamento. [Ver o protótipo e o roteiro](https://github.com/CaioHenryxz/LinkTrial) |
